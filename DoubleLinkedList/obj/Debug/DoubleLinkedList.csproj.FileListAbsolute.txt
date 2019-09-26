@@ -1,0 +1,14 @@
+C:\Users\XJIE6yIIIEK\source\repos\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+C:\Users\XJIE6yIIIEK\source\repos\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\Users\XJIE6yIIIEK\source\repos\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+C:\Users\XJIE6yIIIEK\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csprojAssemblyReference.cache
+C:\Users\XJIE6yIIIEK\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\XJIE6yIIIEK\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+C:\Users\XJIE6yIIIEK\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb
+C:\Users\permy\Desktop\Задания2\DoubleLinkedList(9)\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+C:\Users\permy\Desktop\Задания2\DoubleLinkedList(9)\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\Users\permy\Desktop\Задания2\DoubleLinkedList(9)\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+C:\Users\permy\Desktop\Задания2\DoubleLinkedList(9)\DoubleLinkedList\obj\Debug\DoubleLinkedList.csprojAssemblyReference.cache
+C:\Users\permy\Desktop\Задания2\DoubleLinkedList(9)\DoubleLinkedList\obj\Debug\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\permy\Desktop\Задания2\DoubleLinkedList(9)\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+C:\Users\permy\Desktop\Задания2\DoubleLinkedList(9)\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb
